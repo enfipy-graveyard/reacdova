@@ -6,16 +6,18 @@ Create-react-app with Cordova
 
 Install the Create React App CLI.
 
-npm install -g create-react-app
+```npm install -g create-react-app```
 
 Install the Cordova CLI.
 
-npm install -g cordova
+```npm install -g cordova```
 
 ### Running
 
 To run this project do
 
-yarn run build
+```yarn run build```
 
-cordova run android
+Connect android phone and type:
+
+```cordova run android```
